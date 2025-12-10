@@ -1,3 +1,8 @@
+These steps will show you how to set up an Android development environment without Android Studio:
+
+- Install all SDKs
+- Initialize and run an Android emulator 
+
 # create android home sdk
 
 ```sh
